@@ -17,8 +17,7 @@ The Herbaria Z+ZT and ZSS currently provide digital access to a total of 277,548
 Our study was limited to *Brassicaceae* samples collected from Valais, comprising approximately 6,000 images. Images are available from the herbarium online portal. However, some photos have been imcluded in the repo to allow the model to run through.
 
 ## Requirements
-The requirements.txt file contains all the necessary python packages.
-- TODO: hyperlink to requirements file
+The [requirements.txt](https://github.com/eth-library-lab/herbaria--plant-labeling/blob/main/requirements.txt) file contains all the necessary python packages.
 
 We ran the model using Google Colab. Some packages and dependencies may work better in Colab compared to other environments. 
 
